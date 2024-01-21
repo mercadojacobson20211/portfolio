@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+17:24:47	105/105	---M-Z	200	added ('OK')	text/plain	etag:%22d491e53e9efd7fa63e8d0a81bfee3c0d%22	https://ericjacobsonmercado.framer.media/robots.txt		(from )
+17:24:48	83510/83510	---M-Z	200	added ('OK')	text/html	etag:%22fe8933047ba85d88b22f442b7d28bdb9%22	https://ericjacobsonmercado.framer.media/	C:/Users/merca/Downloads/Website/Portfolio/ericjacobsonmercado.framer.media/index.html	(from )
+17:24:50	536/536	---MC-	200	added ('OK')	image/png	date:Sat,%2020%20Jan%202024%2016:38:29%20GMT	https://framerusercontent.com/images/2psMFdVdsOWE18vpeMtzzektQ.png	C:/Users/merca/Downloads/Website/Portfolio/framerusercontent.com/images/2psMFdVdsOWE18vpeMtzzektQ.png	(from https://ericjacobsonmercado.framer.media/)
